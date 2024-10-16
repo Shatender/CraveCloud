@@ -6,15 +6,6 @@
 CraveCloud is a food delivery app that offers convenient food delivery services throughout Ranchi. With CraveBite, users can order a wide variety of delicious dishes from nearby restaurants. This project is built using modern web technologies and provides several key features to enhance the food ordering experience.
 
 #screenshots
-![Home Page](image.png)
-![Home Page](image-1.png)
-
-![Menu ](image-2.png)
-![Menu](image-3.png)
-
-![Cart ](image-4.png)
-![Empty cart](image-5.png)
-
 
 
 ## Table of Contents
