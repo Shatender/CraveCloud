@@ -1,4 +1,4 @@
-# CraveBite - Food Delivery App
+# CraveCloud - Food Delivery App
 
 
 #NOTE: If you face CORS error while using this application install this chrome [extension](https://chromewebstore.google.com/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf)
