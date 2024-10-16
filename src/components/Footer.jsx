@@ -8,7 +8,7 @@ const Footer = () => {
     <section className="relative bg-black text-center text-white py-4">
       <span className="font-bold">© 2024 CraveCloud. All rights reserved.</span>
       <div className="flex justify-center">
-        <Link to={"https://github.com/Shatender"} target="_blank">
+        <Link to={"https://github.com/Shatender/CraveCloud"} target="_blank">
           <img src={github} alt="" className="w-12 h-12" title="Github" />
         </Link>
       </div>
